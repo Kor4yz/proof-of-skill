@@ -14,8 +14,6 @@ proof-of-skill/
 
 ├── courses/ # Онлайн-курсы (Stepik, Coursera, Yandex, etc.)
 
-├── badges/ # Цифровые значки и бейджи
-
 └── scans/ # Отсканированные копии, если нет цифровой версии
 
 
